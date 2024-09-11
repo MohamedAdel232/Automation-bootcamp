@@ -1,0 +1,4 @@
+[INFO] 10-09-2024 15:31:35 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:29)] - Select a browser
+[INFO] 10-09-2024 15:31:36 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:31)] - Open URL
+[INFO] 10-09-2024 15:31:36 [main] [Listeners.iTestResultListener.onTestStart(iTestResultListener.java:9)] - Test case: validLoginTC started
+[INFO] 10-09-2024 15:31:37 [main] [Listeners.iTestResultListener.onTestSuccess(iTestResultListener.java:13)] - Test case: validLoginTC passed

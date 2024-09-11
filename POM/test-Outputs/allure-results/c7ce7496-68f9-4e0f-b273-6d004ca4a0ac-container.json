@@ -1,0 +1,1 @@
+{"uuid":"c7ce7496-68f9-4e0f-b273-6d004ca4a0ac","name":"TC02_HomeTest.setupDriver","children":["65dc18c0-d98d-4c65-9875-f2213c4e57a4"],"description":"","befores":[{"name":"setupDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725903737053,"stop":1725903738375}],"afters":[],"start":1725903737053,"stop":1725903738375}
